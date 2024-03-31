@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UXl0vbg3gtNPg4t2c9cP/06TT+/HFDrnW1tN5+iHVJjIKsDmG7Pkjp0g6k8+QIm6ajx55WVaJAEPE6arfocFCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Вика\\source\\repos\\testGenerator\\testGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Вика\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
